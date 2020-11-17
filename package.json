@@ -1,0 +1,22 @@
+{
+  "name": "bit_price",
+  "version": "1.0.0",
+  "description": "bitcoin price watcher",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/AbeTavarez/one_coin_bit.git"
+  },
+  "author": "Abraham Tavarez",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
